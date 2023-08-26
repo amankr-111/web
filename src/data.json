@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Swimming Pool",
+      
+      "detail": "Everyday swimming practice happens in our society",
+      "image": "./swimming.png"
+    },
+    {
+      "name": "Garden",
+      
+      "detail": "A lot of flowers are there and maintained by society gardener",
+      "image": "./garden.png"
+    },
+    {
+      "name": "Gym",
+     
+      "detail": "To keep people fit we have gym facilities",
+      "image": "./gym.png"
+    },
+    {
+      "name": "Parking",
+      
+      "detail": "People having cars and bikes can park easily in parking area",
+      "image": "./parking.png"
+    },
+    {
+      "name": "Gaming zone",
+     
+      "detail": "For kids and small children gaming zone is there",
+      "image": "./game.png"
+    },
+    {
+      "name": "Security",
+     
+      "detail": "Everywhere security is provided by cctv surveillance. People living can check from phone",
+      "image": "./cctv.png"
+    }
+  ]

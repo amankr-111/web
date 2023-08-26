@@ -1,0 +1,51 @@
+.navbar {
+    
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+/* Style the list items */
+.nav-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 7rem;
+    margin-left: 70px;
+}
+
+.nav-list li {
+    margin: 0 10px;
+}
+
+/* Style the links */
+.nav-list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style the dropdown */
+.dropdown-content {
+    display: none;
+    position: absolute;
+   
+    list-style: none;
+    padding: 10px;
+    z-index: 1;
+   
+    
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style the dropdown items */
+.dropdown-content li {
+    margin: 5px 0;
+    
+    
+}
+
+

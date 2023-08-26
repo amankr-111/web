@@ -1,0 +1,99 @@
+.red{
+    display: flex;
+    flex-direction: row;
+   
+}
+.op{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 84px;
+    margin-top: -25px;
+    overflow: hidden;
+}
+.op > :nth-child(1){
+    width: 689px;
+    height: 151px;
+    margin-left: 31px;
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 135px;
+    line-height: 102.6px;
+    color: #FFFFFF;
+    margin-top: 164px;
+}
+.op > :nth-child(2){
+    width: 710px;
+height: 144px;
+
+margin-left: 279px;
+
+}
+.op > :nth-child(3){
+    width: 527px;
+    height: 103px;
+    margin-left: 187px
+}
+
+
+.po .upar{
+    width: 341px;
+    height: 517.950867px;
+    position: absolute;
+    left: 835px;
+    top: 300.05px;
+    z-index: 2;
+    background: transparent;
+}
+
+
+.po .down{
+    width: 295px;
+    height: 267.509979px;
+    top: 288px;
+    left: 930px;
+    border: 1px;
+    position: absolute;
+    z-index: 1;
+    background: transparent;
+    }
+
+
+.po .middle{
+    width: 64px;
+    height: 70.081413px;
+    top: 721px;
+    left: 893px;
+    position: absolute;
+    z-index: 3;
+    background: transparent;
+
+
+}
+.po .orange{
+    width: 815px;
+    height: 315.301086px;
+    top: 474px;
+    left: 447px;
+    position: absolute;
+    background: transparent;
+    z-index: 4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&family=Dancing+Script:wght@600&family=Delicious+Handrawn&family=Patua+One&family=Syne:wght@400;600&display=swap');
+.container{
+    margin-left: 20vh;
+    overflow: hidden;
+}
+.uni{
+    margin-right: 20vh;
+}
+.middleHeading{
+    width: 689px;
+    height: 111px;
+    top: 860px;
+}
+.new_product{
+    font-family: Syne;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 0px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    width: ;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.right span{
+    margin-bottom: 10px;
+}
+.acc{
+font-family: Syne;
+font-size: 26px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+}
+.arr{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    width: 30vh;
+    margin-top: 58px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.bellow{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    margin: 16px;
+}
+.image1{
+    height: 322px;
+  width: 310px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.left{
+    display: flex;
+    justify-content: space-around;
+}
+.data{
+    width:310px;
+    height:auto;
+    top: 1332px;
+    left: 346px;
+    gap: 8px;
+}
+.svg_overlay {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 45px;
+    height: 45px;
+  }
+.footerback{
+  background-image: url('./18591063.png');
+  height: auto;
+ }
+ .upper1{
+    display: flex;
+    justify-content: left;
+    margin-top: 10vh;
+    width: min-content;
+    /* margin-bottom: vh; */
+    
+ }
+ .get{
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+ .upper1 input{
+    background-color: transparent;
+    width: 558px;
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+ }
+.footerLeft{
+width: 385px;
+height: 52px;
+top: 1644px;
+left: 103px;
+font-family: Syne;
+font-size: 26px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+}
+.lower1{
+    display: flex;
+    justify-content: left;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.lower1 button{
+    background-color: transparent;
+    height: 133px;
+    width: 168px;
+    border: 2px solid rgba(240, 126, 21, 1);
+    border-radius: 50%;
+    color: rgba(240, 126, 21, 1);
+    font-size: 2rem;
+    bottom: 0;
+    position: relative;
+    top: 10px;
+    right: 25px;
+}
+.lower1 span{
+font-family: Syne;
+font-size: 135px;
+font-weight: 800;
+line-height: 103px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.sec{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.new{
+font-family: Syne;
+font-size: 26px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.Touch{
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    color: rgba(255, 255, 255, 1);
+}
+
+.mentain{
+    margin-top:20vh ;
+}
+.end{
+   background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.end span{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+
+}
