@@ -30,14 +30,7 @@ const Stickers = () => {
       <img src={girl} alt="" className='upar' />
       <img src={diamond} alt=""  className='down'/>
       <img src={linestar} alt="" className='middle' />
-      <img src={rectangle} alt="" className='orange'/>
-      
-     
-        
-          
-       
-      
-      
+      <img src={rectangle} alt="" className='orange'/>  
     </div>
     </div>
   )

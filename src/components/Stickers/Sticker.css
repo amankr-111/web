@@ -79,7 +79,19 @@ margin-left: 279px;
     background: transparent;
     z-index: 4;
 }
+@media (max-width: 480px) {
 
+    .red{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .po{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
 
 
 

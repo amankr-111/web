@@ -5,7 +5,7 @@ import 'swiper/css'
 import './components.css'
 import Card from './Card'
 import {sliderSetting} from './common'
-const Products = ({ click }) => {
+const Products = () => {
     const [detail, setDetail] = useState([]);
   
     let URL = 'https://fakestoreapi.com/products';
@@ -26,8 +26,7 @@ const Products = ({ click }) => {
 
   
     return (
-      <section style={{ width: "1400px" }}>
-        <SlidersButton />
+      <section className='sec12' style={{width:"1400px"}}>
         <Swiper {...sliderSetting}>
           {detail.map((card, i) => (
             <SwiperSlide key={i}>
@@ -40,16 +39,6 @@ const Products = ({ click }) => {
       </section>
     );
   }
-  
-  const SlidersButton = () => {
-    const swiper = useSwiper();
-    
-    return (
-      <div className='allBut'>
-        <button onClick={() => swiper.slidePrev()}>&lt;</button>
-        <button onClick={() => swiper.slideNext()}>&gt;</button>
-      </div>
-    );
-  }
+
   
   export default Products;
